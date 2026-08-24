@@ -1,0 +1,8 @@
+# Ignore Power BI temporary files
+*.temp
+*.tmp
+*.zip
+*.pbi
+
+# Ignore Windows thumbnail cache
+Thumbs.db
